@@ -1,13 +1,3 @@
 #!/bin/bash
 
-echo $1
-
-#This are my simple shell work
-
-echo -e "Please enter your name. "
-
-read name
-
-echo "Nice to meet you $name"
-
-ls && echo ':)' || echo ':('
+echo "\"(Oo)""
