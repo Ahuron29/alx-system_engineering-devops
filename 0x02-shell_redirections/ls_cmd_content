@@ -1,0 +1,26 @@
+total 64
+drwxr-xr-x 2 root root 4096 Mar  5 20:16 .
+drwxr-xr-x 6 root root  121 Mar  4 10:02 ..
+-rwxr--r-- 1 root root   36 Mar  5 16:16 0-hello_world
+-rw-r--r-- 1 root root    0 Mar  4 10:09 0-hello_world~
+-rwxr--r-- 1 root root   32 Mar  5 17:11 1-confused_smiley
+-rw-r--r-- 1 root root    0 Mar  4 12:38 1-confused_smiley~
+-rwxr--r-- 1 root root   28 Mar  5 03:51 2-hellofile
+-rwxr--r-- 1 root root   39 Mar  5 03:53 3-twofiles
+-rw-r--r-- 1 root root    0 Mar  5 03:22 3-twofiles~
+-rwxr--r-- 1 root root   42 Mar  5 18:57 #4-lastlines#
+-rwxr--r-- 1 root root   29 Mar  5 19:29 4-lastlines
+-rw-r--r-- 1 root root    0 Mar  5 03:26 4-lastlines~
+-rwxr--r-- 1 root root   29 Mar  5 19:31 5-firstlines
+-rw-r--r-- 1 root root    0 Mar  5 03:37 5-firstlines~
+-rwxr--r-- 1 root root   36 Mar  5 19:37 6-third_line
+-rw-r--r-- 1 root root   28 Mar  5 04:14 6-third_line~
+-rwxr--r-- 1 root root   78 Mar  5 20:02 7-file
+-rw-r--r-- 1 root root    0 Mar  5 19:39 7-file~
+-rwxr--r-- 1 root root   36 Mar  5 20:14 8-cwd_state
+-rw-r--r-- 1 root root    0 Mar  5 20:14 8-cwd_state~
+-rw-r--r-- 1 root root   12 Mar  5 20:11 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root  915 Mar  5 04:02 iacta
+-rw-r--r-- 1 root root  914 Mar  5 03:59 iacta~
+-rw-r--r-- 1 root root    0 Mar  5 20:16 ls_cmd_content
+-rw-r--r-- 1 root root   15 Mar  4 10:06 README.md
