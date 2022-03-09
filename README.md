@@ -1,1 +1,1 @@
-Shell variables expansion
+This is first readme file in the shell task
