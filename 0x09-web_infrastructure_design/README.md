@@ -1,7 +1,7 @@
 # Web Infrastructcture Design
-
 ---
 
+## Concepts
 * DNS
 * Monitoring
 * Web Server
@@ -10,8 +10,6 @@
 * Server
 
 ## Resources
-
----
 * Network basics concept page
 * Server concept page
 * Web server concept page
